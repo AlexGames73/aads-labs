@@ -6,7 +6,7 @@ using namespace std;
 #define HEAP 0
 #define DFS 1
 #define DIJKSTRA 2
-#define TASK DIJKSTRA
+#define TASK HEAP
 
 #if TASK == HEAP
 void heapSort(int* a, int size) {
