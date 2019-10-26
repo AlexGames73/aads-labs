@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-	HashTableLinear htl(1000);
+	HashTableChain htl(1000);
 	htl.add(new Integer(15434));
 	cout << htl.contains(new Integer(15434)) << endl;
 	cout << htl.contains(new Integer(434)) << endl;

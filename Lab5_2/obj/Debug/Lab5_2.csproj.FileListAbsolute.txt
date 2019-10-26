@@ -1,0 +1,12 @@
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.Form1.resources
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.csproj.CopyComplete
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Users\user\Source\Repos\AlexGames73\aads-labs\Lab5_2\obj\Debug\Lab5_2.pdb
